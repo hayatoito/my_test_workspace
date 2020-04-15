@@ -1,6 +1,2 @@
 no-dev-version = true
-# dev-version-ext = "pre"
-pre-release-commit-message  = "[cargo-release] {{crate_name}}-v{{version}}"
-# post-release-commit-message = "Start next development iteration {{crate_name}}-v{{next_version}}"
-# tag-message                 = "Bump version to v{{version}}"
-# tag-prefix                  = ""
+pre-release-commit-message  = "Release {{crate_name}}-v{{version}}"
