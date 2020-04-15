@@ -1,6 +1,6 @@
 [package]
 name = "add-one"
-version = "0.1.10"
+version = "0.1.11"
 authors = ["Hayato Ito <hayatoito@gmail.com>"]
 edition = "2018"
 publish = false
