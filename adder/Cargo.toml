@@ -9,4 +9,4 @@ publish = false
 
 [dependencies]
 
-add-one = { version = "^0.1.9", path = "../add-one" }
+add-one = { version = "^0.1.10", path = "../add-one" }
