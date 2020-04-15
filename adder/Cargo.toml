@@ -1,6 +1,6 @@
 [package]
 name = "adder"
-version = "0.1.7"
+version = "0.1.8"
 authors = ["Hayato Ito <hayatoito@gmail.com>"]
 edition = "2018"
 publish = false
